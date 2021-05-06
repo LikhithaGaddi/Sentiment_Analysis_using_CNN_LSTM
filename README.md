@@ -28,8 +28,8 @@
 
 The project was submitted as a part for the requirement for the fullfilment of course work of Computer Vision in the spring session of IIIT Hyderabad in the year 2021. The project is the joint effort of the collective works of
 
-Likhitha Gaddi
-B Sindhu
-Devershi Chandra
+- Likhitha Gaddi
+- B Sindhu
+- Devershi Chandra
 
 Under the guidance of Ms. Sireesha Vakada (TA) and Vineet Gandhi (Assistant Professor CVIT, IIITH)
