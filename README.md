@@ -19,7 +19,7 @@
 
 ### Model Architecture
 
-![Model Architecture][https://github.com/LikhithaGaddi/Sentiment_Analysis_using_CNN_LSTM/blob/main/Model_architecture.png]
+![Model Architecture](https://github.com/LikhithaGaddi/Sentiment_Analysis_using_CNN_LSTM/blob/main/Model_architecture.png)
 
 
 
