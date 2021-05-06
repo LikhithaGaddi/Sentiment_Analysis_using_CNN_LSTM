@@ -1,6 +1,6 @@
 Stanford Sentiment Treebank V1.0
 
-This is the dataset of the paper:
+This is the dataset of the paper: 
 
 Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
 Richard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Christopher Manning, Andrew Ng and Christopher Potts
